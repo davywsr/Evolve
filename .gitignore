@@ -6,4 +6,5 @@ strings/last-strings.json
 node_modules/*
 docs
 dist
+!local-resource/**/dist/
 *.map
